@@ -1,0 +1,45 @@
+syringe
+table
+teapot
+teddy-bear
+telephone
+television
+tennis racquet
+tent
+The Eiffel Tower
+The Great Wall of China
+The Mona Lisa
+tiger
+toaster
+toe
+toilet
+tooth
+toothbrush
+toothpaste
+tornado
+tractor
+traffic light
+train
+tree
+triangle
+trombone
+truck
+trumpet
+t-shirt
+umbrella
+underwear
+van
+vase
+violin
+washing machine
+watermelon
+waterslide
+whale
+wheel
+windmill
+wine bottle
+wine glass
+wristwatch
+yoga
+zebra
+zigzag
